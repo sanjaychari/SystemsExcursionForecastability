@@ -9,7 +9,7 @@ description = "Forecastability of rare excursions in systems telemetry."
 readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
-authors = [{name = "Sanjay Chari"}]
+authors = [{name = "Anonymous Authors"}]
 dependencies = [
   "neuralforecast==3.2.2",
   "numpy>=1.26",
